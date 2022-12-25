@@ -8,6 +8,6 @@ Also, as a beginner of OI competitions, I'm NOT sure all answers are correct or 
 
 Another important fact is that some of the programs is adapted from better answers, instead of mine. But there aren't a lot, and a quote message is included in them.
 
-If you find something wrong in it, it's welcomed to email me at simondguqiu@outlook.com. I'll answer as soon as possible.
+If you find something wrong in it, it's welcomed to email me at simondguqiu@outlook.com. I'll answer as soon as possible. Please star my repo if possible. 
 
 Have a nice day. :)
