@@ -1,13 +1,13 @@
-# CppProblems
+![cover.png](./cover.png)
 
-A collection of C++ competition promblems.
+This repo is a collection of some C++ questions which I have studied since 2019.
 
-Most problems are from [Luogu](www.luogu.com.cn) and [USACO](www.usaco.org). They both follows CC License.
+Most of them came from [Luguo](https://www.luogu.com.cn) and [USACO](https://www.usaco.org). You can search them with the file name, and you can mostly find the question.
 
-Please pay attention, the code in *!UNFINISHED* is **NOT** tested. Also, my code is **NEVER** the only correct answer. It's important to think by yourself first.
+Also, as a beginner of OI competitions, I'm NOT sure all answers are correct or the best. So, you can have a look at better answers of the questions, which are included in the question.
 
-You can see a *!NOQUES* folder in the repo. This is some old questions that I haven't add the question itself. You may search for them.
+Another important fact is that some of the programs is adapted from better answers, instead of mine. But there aren't a lot, and a quote message is included in them.
 
-Please *like* my repo if possible. Have a nice day. :)
+If you find something wrong in it, it's welcomed to email me at simondguqiu@outlook.com. I'll answer as soon as possible.
 
-Here is a list of all the problems, and a link if there is one. You can easily compare with my code or upload to an OJ to test.
+Have a nice day. :)
